@@ -8,4 +8,5 @@
   - Node.Paste
   - PasteScript
   - Moon
-  Im truly thankful for chatGPT, now i can call myself a software developer.
+  
+  ## Im truly thankful for chatGPT, now i can call myself a software developer.
